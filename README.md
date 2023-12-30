@@ -17,6 +17,7 @@ SocialHub – your contemporary, user-centric social platform! Seamlessly connec
 - **Socket.io**
 - **Node.js**
 - **Express.js**
+- **JWT**
 - **Firebase**
 
 ## Features
