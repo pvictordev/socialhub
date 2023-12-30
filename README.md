@@ -19,7 +19,7 @@ SocialHub – your contemporary, user-centric social platform! Seamlessly connec
 - **Express.js**
 - **NestJS**
 - **JWT**
-- **Firebase**
+- **MySQL**
 
 ## Features
 
