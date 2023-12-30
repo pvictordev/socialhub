@@ -1,36 +1,34 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <img width="200" height="200" src="public/socialhub-logo.png">
+</p>
 
-## Getting Started
+# SocialHub - Social Media App
 
-First, run the development server:
+SocialHub – your contemporary, user-centric social platform! Seamlessly connecting users through Google authentication, SocialHub offers an intuitive space to interact, converse, and build connections with friends and colleagues.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+**Live Demo**: [SocialHub](#)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Technologies Used
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- **Next**
+- **TypeScript**
+- **Material UI**
+- **SCSS**
+- **Socket.io**
+- **Node.js**
+- **Express.js**
+- **Firebase**
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+## Features
 
-## Learn More
+1. **Real-Time Interaction**: Engage in real-time conversations, making your social connections feel lively and immediate.
 
-To learn more about Next.js, take a look at the following resources:
+2. **Secure Authentication**: Robust user authentication guarantees privacy, ensuring your chats remain confidential and accessible only to authorized individuals.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+3. **Private & Group Conversations**: Initiate private chats or gather friends and colleagues for group discussions, tailoring your interactions effortlessly.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+4. **Media Sharing**: Share text, images, videos, and documents seamlessly, enriching conversations with a diverse range of content.
 
-## Deploy on Vercel
+5. **Emojis & Reactions**: Add flair to your chats with expressive emojis and reactions, infusing personality into every interaction.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+6. **Search Function**: Easily find past chats or specific messages with an efficient search feature, enabling quick access to previous conversations.
