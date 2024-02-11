@@ -4,7 +4,7 @@
 
 # SocialHub - Social Media App
 
-SocialHub is a user-friendly social platform that connects users through Google authentication. It provides a simple and intuitive space to interact, converse, and build connections with friends and colleagues.
+SocialHub is a user-friendly social media platform that connects users through Google authentication. It provides a simple and intuitive space to interact, converse, and build connections with friends and colleagues.
 
 **Live Demo**: [SocialHub](#)
 
